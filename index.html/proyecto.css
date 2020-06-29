@@ -1,0 +1,40 @@
+.body{
+    background-color: black;
+    color: white;
+}
+
+#titulo{
+    text-transform: uppercase;
+    text-align: center;
+    border: 2px dashed white;
+}
+
+#canal{
+    text-transform: uppercase;
+    text-align: center;
+    border: 2px solid lime;
+}
+
+#gmail{
+    color: yellow;
+    text-transform: uppercase;
+    border: 2px solid brown;
+}
+
+.palabras{
+background-color: white;
+color: black;
+text-transform: uppercase;
+}
+
+#ig{
+    text-transform: uppercase;
+    color: yellow;
+    border: 2px solid lime;
+}
+
+#ss{
+    color: red;
+    text-transform: uppercase;
+    border: 2px solid lime;
+}
